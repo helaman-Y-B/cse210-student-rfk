@@ -1,7 +1,7 @@
 class Action:
     """A code template for a thing done in a game. The responsibility of 
     this class of objects is to interact with actors to change the state of the game. 
-    
+
     Stereotype:
         Controller
 
